@@ -7,7 +7,7 @@
   <ul align="center">
     <summary>
       <h1 style="display: inline-block">Hi 👋, I'm Jamal Eddine Sakim</h1>
-      <h2 style="display: inline-block">Junior Salesforce Consultant & Full Stack Java Developer</h2>
+      <h2 style="display: inline-block">Salesforce Consultant & Full Stack Java Developer</h2>
     </summary>
   </ul>
 </div>
